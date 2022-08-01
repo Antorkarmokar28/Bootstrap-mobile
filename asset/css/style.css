@@ -1,3 +1,6 @@
 .background-linear{
-    background: linear-gradient(90deg,rgb(123, 0, 255),rgb(178, 24, 173));
+    background: linear-gradient(90deg,#6F00ED,rgb(178, 24, 173));
+}
+.primary-color{
+    color:#6F00ED;
 }
