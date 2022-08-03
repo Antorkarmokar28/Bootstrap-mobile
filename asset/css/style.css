@@ -21,3 +21,9 @@
     background-blend-mode: overlay;
     height: 100vh;
 }
+.footer-bg{
+    background: #323030;
+}
+.footer-padding{
+    padding: 3rem 0;
+}
