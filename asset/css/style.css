@@ -10,3 +10,14 @@
 .card-icon{
     margin-left: 37%;
 }
+.p-content{
+    text-align: justify;
+}
+.stop-writing{
+    background-image:url("../images/img/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
